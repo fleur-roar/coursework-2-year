@@ -1,4 +1,4 @@
-# coursework-2-year
+# coursework: Patterns of Ironic Constructions Extraction
 
 In the file ironical_corpus.csv - 1550 manually collected ironacal and sarcastic tweets are presented.
 
